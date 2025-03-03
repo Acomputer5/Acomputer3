@@ -71,7 +71,7 @@
             color: white;
             padding: 10px;
             position: fixed;
-            width: 100%;
+            width: 120%;
             bottom: 0;
         }
     </style>
