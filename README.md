@@ -48,9 +48,8 @@
             padding: 20px;
         }
         .section {
-            display: flex;
-            
-}          
+            display: flex;            
+{         
             justify-content: {
             center;
             margin: 20px auto;
@@ -92,7 +91,7 @@
         <p><h4>The purpose of this webpage is to provide straight and short, but precise and on point info about the
             computer. Specifically, the Desktop computer on what you need to know on its surface level that you 
             <i>SHOULD</i> know about it. So..yeah, Enjoy!
-        </h4></h2></p>
+        </h4></p>
     <main>
         <p>Explore the world of the humble yet complex computer! Specifically, the desktop computer.</p>
         <div class="section">
