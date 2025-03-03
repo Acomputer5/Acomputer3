@@ -49,14 +49,17 @@
         }
         .section {
             display: flex;
-          
-            justify-content: center;
+            
+}          
+            justify-content: {
+            center;
             margin: 20px auto;
             width: 80%;
             background: rgba(255, 255, 255, 0.1);
             padding: 20px;
             border-radius: 50px;
             border: 5px solid #ff9800;
+            {
         }
         .section img {
             width: 130px;
