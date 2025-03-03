@@ -69,9 +69,9 @@
         footer {
             background: #ff9800;
             color: white;
-            padding: 10px;
+            padding: 20px;
             position: fixed;
-            width: 80%;
+            width: 100%;
             bottom: 0;
         }
     </style>
@@ -142,8 +142,6 @@
             </div>
         </div>
     </main>
-        <br>        
-        <br>
     <footer>
         <p>&copy 2025 - By GroupPeaceCss</p>
     </footer>
