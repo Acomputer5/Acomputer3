@@ -48,8 +48,7 @@
             padding: 20px;
         }
         .section {
-            display: flex;            
-{         
+            display: flex;                
             justify-content: {
             center;
             margin: 20px auto;
